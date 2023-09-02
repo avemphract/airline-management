@@ -1,0 +1,5 @@
+1. AIRPLANE_ID number
+2. ICAO_CODE varchar(256 byte)
+3. IATA_CODE varchar(256 byte)
+4. AIRPLANE_MODEL_NAME varchar(256 byte)
+5. LICENCE_PLATE varchar(7 byte)
