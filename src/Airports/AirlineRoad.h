@@ -11,7 +11,6 @@ class AirlineRoad
         const double getLength();
         const double getAngle();
 
-
     private:
         unsigned short mOrder;
         //Relative km

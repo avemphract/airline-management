@@ -1,0 +1,4 @@
+1. PASSENGER_ID number
+2. AIRPLANE_ID number
+3. ORDER_ID number
+4. SEAT_NUMBER varchar(10 byte)

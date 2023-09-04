@@ -43,6 +43,7 @@ set(Headers
 
     src/Others/MaintenceTeam.h
     src/Others/Route.h
+    src/Others/Schedule.h
 
     src/People/Passengers/Passenger.h
 

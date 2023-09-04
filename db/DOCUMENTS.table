@@ -1,0 +1,7 @@
+1. ID number primary_key
+2. DOCUMENT_NAME varchar(256 byte)
+3. GIVEN_COUNTRY number
+4. VALID_FROM date
+5. VALID_TO date nullable
+6. DOCUMENT_PDF_BYTE_ARRAY blobs
+7. LENGTH number

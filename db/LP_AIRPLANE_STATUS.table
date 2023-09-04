@@ -1,0 +1,2 @@
+1. AIRPLANE_STATUS_ID number
+2. AIRPLANE_STATUS varchar(64 byte)
