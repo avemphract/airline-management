@@ -28,7 +28,7 @@ class Airplane
             std::vector<std::tuple<std::string, bool, RequirementCrewWorker>> crew,
             AirplaneStatus airplaneStatus,
             double fuelVolume,
-            std::optional<City> currentCity
+            std::optional<Airport> currentCity
             );
         PassengerSeat getSeat(std::pair<char, unsigned int> seatNumber);
         AirplaneStatus getAirplaneStatus() const;

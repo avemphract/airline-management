@@ -19,6 +19,8 @@ class Airport
         
         const std::pair<double,double> getCoordinate() const;
         double getAltitude() const;
+        const std::pair<double,double> getBeginRoadCoordinate(int order) const;
+        const std::pair<double,double> getEndRoadCoordinate(int order) const;
 
     private:
         City mCity;

@@ -1,0 +1,6 @@
+1. AIRPORT_ID number
+2. CITY_ID number
+3. NAME varchar(256 byte)
+4. COORDINATE_X number
+5. COORDINATE_Y number
+6. ALTITIDE number

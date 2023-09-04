@@ -1,0 +1,5 @@
+1. PERSON_ID number primary_key
+2. GIVEN_NAME varchar(256 byte)
+3. MIDDLE_NAME varchar(256 byte)
+4. SURNAME varchar(256 byte)
+5. BIRTHDAY time
